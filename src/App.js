@@ -20,6 +20,7 @@ import { ProgressCircle } from "@lemonsqueezy/wedges";
 function App() {
   return (
     <Theme>
+      <ThemePanel />
       <div className="p-4">
         <div className="mx-auto flex max-w-fit items-start gap-10">
           <div className="flex flex-col gap-4">
