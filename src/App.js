@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 import "@radix-ui/themes/styles.css";
-import { Theme } from "@radix-ui/themes";
+import { Theme, ThemePanel } from "@radix-ui/themes";
 
 import { Alert } from "@lemonsqueezy/wedges";
 import { Button } from "@lemonsqueezy/wedges";
